@@ -1,0 +1,880 @@
+{
+  "Schedule K-3 Information": {
+    "Part I - Partner's Share of Partnership's Other Current Year International Information": {
+      "1 - Gain on personal property sale (Yes/No)": "",
+      "2 - Foreign oil and gas taxes (Yes/No)": "",
+      "3 - Splitter arrangements (Yes/No)": "",
+      "4 - Foreign tax translation (Yes/No)": "",
+      "5 - High-taxed income (Yes/No)": "",
+      "6 - Section 267A disallowed deduction (Yes/No)": "",
+      "7 - Reserved for future use (Yes/No)": "",
+      "8 - Form 5471 information (Yes/No)": "",
+      "9 - Other forms (Yes/No)": "",
+      "10 - Partner loan transactions (Yes/No)": "",
+      "11 - Dual consolidated loss (Yes/No)": "",
+      "12 - Form 8865 information (Yes/No)": "",
+      "13 - Other international items (Yes/No)": ""
+    },
+    "Part II - Foreign Tax Credit Limitation": {
+      "Section 1 - Gross Income": {
+        "1 - Sales": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "2 - Gross income from performance of services": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "3 - Gross rental real estate income": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "4 - Other gross rental income": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "5 - Guaranteed payments": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "6 - Interest income": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "7 - Ordinary dividends": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "8 - Qualified dividends": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "10 - Royalties and license fees": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "11 - Net short-term capital gain": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "12 - Net long-term capital gain": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "13 - Collectibles (28%) gain": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "14 - Unrecaptured section 1250 gain": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "15 - Net section 1231 gain": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "16 - Section 986(c) gain": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "17 - Section 987 gain": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "18 - Section 988 gain": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "20 - Other income": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "24 - Total gross income": { "Desc": "", "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" }
+      },
+      "Section 2 - Deductions": {
+        "25 - Expenses allocable to sales income": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "26 - Expenses allocable to gross income from performance of services": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "27 - Net short-term capital loss": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "28 - Net long-term capital loss": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "29 - Collectibles loss": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "30 - Net section 1231 loss": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "31 - Other losses": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "33 - Allocable rental expenses—depreciation": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "34 - Allocable rental expenses—other than depreciation": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "35 - Allocable royalty and licensing expenses—depreciation": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "36 - Allocable royalty and licensing expenses—other than depreciation": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "37 - Depreciation not included on line 33 or 35": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "38 - Charitable contributions": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "39 - Interest expense specifically allocable under Regulations section 1.861-10(e)": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "40 - Other interest expense specifically allocable under Regulations section 1.861-10T": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "41 - Other interest expense—business": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "42 - Other interest expense—investment": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "43 - Other interest expense—passive activity": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "44 - Section 59(e)(2) expenditures": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" },
+        "45 - Foreign taxes not creditable but deductible": { "(a) US source": "", "(b) Foreign branch category income": "", "(c) Passive category income": "", "(d) General category income": "", "(e) Other": "", "(f) Sourced by partner": "", "(g) Total": "" }
+      }
+    },
+   
+  "Part III - Other Information for Preparation of Form 1116 or 1118": {
+    "Section 1 - R&E Expenses Apportionment Factors": {
+      "1 - Gross receipts by SIC code": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "2 - Exclusive apportionment with respect to total R&E expenses entered on Part II, line 32": {
+        "A - R&E expense with respect to activity performed in the United States": {
+          "i - SIC code": "",
+          "ii - SIC code": "",
+          "iii - SIC code": ""
+        },
+        "B - R&E expense with respect to activity performed outside the United States": {
+          "i - SIC code": "",
+          "ii - SIC code": "",
+          "iii - SIC code": ""
+        }
+      }
+    },
+    "Section 2 - Interest Expense Apportionment Factors": {
+      "1 - Total average value of assets": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "2 - Sections 734(b) and 743(b) adjustment to assets - average value": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "3 - Assets attracting directly allocable interest expense under Regulations section 1.861-10(e)": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "4 - Other assets attracting directly allocable interest expense under Regulations section 1.861-10T": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "5 - Assets excluded from apportionment formula": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "6a - Total assets used for apportionment": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "6b - Assets attracting business interest expense": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "6c - Assets attracting investment interest expense": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "6d - Assets attracting passive activity interest expense": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "7 - Basis in stock of 10%-owned noncontrolled foreign corporations": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "8 - Basis in stock of CFCs": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      }
+    },
+    "Section 3 - Foreign-Derived Intangible Income (FDII) Deduction Apportionment Factors": {
+      "1 - Foreign-derived gross receipts": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "2 - Cost of goods sold (COGS)": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "3 - Partnership deductions allocable to foreign-derived gross receipts": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      },
+      "4 - Other partnership deductions apportioned to foreign-derived gross receipts": {
+        "(a) US source": "",
+        "(b) Foreign branch category income": "",
+        "(c) Passive category income": "",
+        "(d) General category income": "",
+        "(e) Other": "",
+        "(f) Sourced by partner": "",
+        "(g) Total": ""
+      }
+    }
+  },
+
+    
+  "Part IV - Information on Partner's Section 250 Deduction With Respect to Foreign-Derived Intangible Income (FDII)": {
+    "Section 1 - Information To Determine Deduction Eligible Income (DEI) and Qualified Business Asset Investment (QBAI) on Form 8993": {
+      "1 - Net income (loss)": "",
+      "2a - DEI gross receipts": "",
+      "2b - DEI COGS": "",
+      "2c - DEI properly allocated and apportioned deductions": "",
+      "3 - Section 951(a) inclusions": "",
+      "4 - Controlled foreign corporation (CFC) dividends": "",
+      "5 - Financial services income": "",
+      "6 - Domestic oil and gas extraction income": "",
+      "7 - Foreign branch income": "",
+      "8 - Partnership QBAI": ""
+    },
+    "Section 2 - Information To Determine Foreign-Derived Deduction Eligible Income (FDDEI) on Form 8993": {
+      "9 - Gross receipts": {
+        "a - Foreign-derived income from all sales of general property": "",
+        "b - Foreign-derived income from all sales of intangible property": "",
+        "c - Foreign-derived income from all services": "",
+        "d - Total (add columns (a) through (c))": ""
+      },
+      "10 - COGS": {
+        "a - Foreign-derived income from all sales of general property": "",
+        "b - Foreign-derived income from all sales of intangible property": "",
+        "c - Foreign-derived income from all services": "",
+        "d - Total (add columns (a) through (c))": ""
+      },
+      "11 - Allocable deductions": {
+        "a - Foreign-derived income from all sales of general property": "",
+        "b - Foreign-derived income from all sales of intangible property": "",
+        "c - Foreign-derived income from all services": "",
+        "d - Total (add columns (a) through (c))": ""
+      },
+      "12 - Other apportioned deductions": {
+        "a - Foreign-derived income from all sales of general property": "",
+        "b - Foreign-derived income from all sales of intangible property": "",
+        "c - Foreign-derived income from all services": "",
+        "d - Total (add columns (a) through (c))": ""
+      }
+    },
+    "Section 3 - Other Information for Preparation of Form 8993": {
+      "13 - Interest deductions": {
+        "A - Interest expense specifically allocable under Regulations section 1.861-10(e)": {
+          "Interest expense specifically allocable under Regulations section 1.861-10(e)": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "B - Other interest expense specifically allocable under Regulations section 1.861-10T": {
+          "Other interest expense specifically allocable under Regulations section 1.861-10T": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "C - Other interest expense": {
+          "Other interest expense": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        }
+      },
+      "14 - Interest expense apportionment factors": {
+        "A - Total average value of assets": {
+          "Total average value of assets": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "B - Sections 734(b) and 743(b) adjustment to assets - average value": {
+          "Sections 734(b) and 743(b) adjustment to assets - average value": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "C - Assets attracting directly allocable interest expense under Regulations section 1.861-10(e)": {
+          "Assets attracting directly allocable interest expense under Regulations section 1.861-10(e)": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "D - Other assets attracting directly allocable interest expense under Regulations section 1.861-10T": {
+          "Other assets attracting directly allocable interest expense under Regulations section 1.861-10T": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "E - Assets excluded from apportionment formula": {
+          "Assets excluded from apportionment formula": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "F - Total assets used for apportionment (the sum of lines 14C, 14D, and 14E subtracted from the sum of lines 14A and 14B)": {
+          "Total assets used for apportionment": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        }
+      },
+      "15 - Gross receipts by SIC code": {
+        "A - SIC code": {
+          "SIC code": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "B - SIC code": {
+          "SIC code": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "C - SIC code": {
+          "SIC code": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        }
+      },
+      "16 - R&E expenses by SIC code": {
+        "A - SIC code": {
+          "SIC code": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "B - SIC code": {
+          "SIC code": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        },
+        "C - SIC code": {
+          "SIC code": "",
+          "a - DEI": "",
+          "b - FDDEI": "",
+          "c - Total": ""
+        }
+      }
+    
+  }
+},
+
+
+  "Part VIII - Partner's Interest in Foreign Corporation Income (Section 960)": {
+    "A - EIN or reference ID number of CFC": "",
+    "B - Applicable grouping under Regulations section 1.904-4(c)": "",
+    "C - Box is checked if there is more than one source country for a line (Yes or No)": "",
+    "D - Box is checked if foreign oil related income or foreign oil and gas extraction income (Yes or No)": "",
+    "E - Functional currency of foreign corporation": "",
+    "Subpart F Income Groups": {
+      "1 - Dividends, interest, rents, royalties, and annuities": {
+        "(i) Country code": "",
+        "(ii) Partner's share of foreign corporation's net income (functional currency)": "",
+        "(iii) Foreign corporation's total net income (functional currency)": "",
+        "(iv) Foreign corporation's current year foreign taxes for which credit allowed (US dollars)": ""
+      },
+      "2 - Net gain from certain property transactions (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "3 - Net gain from commodities transactions (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "4 - Net foreign currency gain (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "5 - Income equivalent to interest (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "6 - Other foreign personal holding company income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "7 - Foreign base company sales income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "8 - Foreign base company services income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "9 - Full inclusion foreign base company income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "10 - Insurance income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "11 - International boycott income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "12 - Bribes, kickbacks, and other payments (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "13 - Section 901(j) income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      },
+      "14 - Total": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      }
+    },
+    "Tested Income Groups": {
+      "1 - Partner's share of tested income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      }
+    },
+    "Residual Income Groups": {
+      "1 - Partner's share of residual income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      }
+    },
+    "Recaptured Subpart F Income": {
+      "1 - Partner's share of recaptured income (total)": {
+        "(i) Unit 1": "",
+        "(ii) Unit 2": ""
+      }
+    },
+    "Other Information": {
+      "1 - Foreign corporation's current year foreign taxes for which credit allowed (US dollars)": "",
+      "2 - Total taxes paid by foreign corporation": "",
+      "3 - Functional currency gain or loss (total)": ""
+    }
+  },
+
+
+  "Part IX - Partner's Information for Base Erosion and Anti-Abuse Tax (Section 59A)": {
+    "Section 1 - Applicable Taxpayer": {
+      "1 - Gross receipts for section 59A(e)": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "2 - Gross receipts for the first preceding year": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "3 - Gross receipts for the second preceding year": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "4 - Gross receipts for the third preceding year": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "5 - Amounts included in the denominator of the base erosion percentage as described in Regulations section 1.59A-2(e)(3)": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      }
+    },
+    "Section 2 - Base Erosion Payments and Base Erosion Tax Benefits": {
+      "6 - Purchase or creations of property rights for intangibles (patents, trademarks, etc.)": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "7 - Rents, royalties, and license fees": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "8 - Compensation/consideration paid for services not excepted by section 59A(d)(5)": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "9 - Compensation/consideration paid for services excepted by section 59A(d)(5)": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "10 - Interest expense": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "11 - Payments for the purchase of tangible personal property": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "12 - Premiums and/or other considerations paid or accrued for insurance and reinsurance": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "13 - Nonqualified derivative payments": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "14 - Qualified derivative payments excepted by section 59A(h)": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "15 - Payments reducing gross receipts made to surrogate foreign corporation": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "16 - Other payments - specify": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "17 - Base erosion tax benefits related to payments reported on lines 6 through 16, on which tax is imposed by section 871 or 881": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "18 - Portion of base erosion tax benefits reported on lines 6 through 16 with respect to tax withheld under section 1441 or 1442 at reduced withholding rate": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      },
+      "19 - Total base erosion tax benefits (subtract the sum of lines 17 and 18 from the sum of lines 6 through 16)": {
+        "(a) Total": "",
+        "(b) Total base erosion payments": "",
+        "(c) Total base erosion tax benefits": ""
+      }
+    }
+  },
+
+  
+  "Part X - Foreign Partner's Character and Source of Income and Deductions": {
+    "Section 1 - Gross Income": {
+      "1 - Ordinary business income (gross)": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "2 - Gross rental real estate income": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "3 - Other gross rental income": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "4 - Guaranteed payments for services": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "5 - Guaranteed payments for use of capital": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "6 - Interest income": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "7 - Dividends": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "8 - Dividend equivalents": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "9 - Royalties and license fees": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "10 - Net short-term capital gain": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "11 - Net long-term capital gain": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "12 - Collectibles (28%) gain": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "13 - Unrecaptured section 1250 gain": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "14 - Net section 1231 gain": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "15 - Other income (loss) not included on lines 1 through 14": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "16 - Total gross income (sum of lines 1 through 15)": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      }
+    },
+    "Section 2 - Deductions, Losses, and Net Income": {
+      "1 - Expenses related to ordinary business income (gross)": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "2 - R&E expenses": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "3 - Expenses from rental real estate": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "4 - Expenses from other rental activities": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "5 - Royalty and licensing expenses": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "6 - Section 179 deduction": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "7 - Interest expense on US-booked liabilities": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "8 - Other interest expense directly allocable under Regulations sections 1.882-5(a)(1)(ii)(B) and 1.861-10T": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "9 - Other interest expense": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "10 - Section 59(e)(2) expenditures": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "11 - Net short-term capital loss": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "12 - Net long-term capital loss": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "13 - Collectibles loss": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "14 - Net section 1231 loss": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "15 - Other losses not included on lines 1 through 14": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "16 - Total deductions (sum of lines 1 through 15)": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      },
+      "17 - Net income (loss) (line 16 - Section 1 minus line 16 - Section 2)": {
+        "(a) Total": "",
+        "(b) Partner determination": "",
+        "(c) US source (ECI)": "",
+        "(d) Foreign source": "",
+        "(e) US source (FDAP)": "",
+        "(f) US source (Other)": "",
+        "(g) Foreign source (Other)": ""
+      }
+    }
+  }
+
+
+
+
+
+
+
+
+  }
+}
